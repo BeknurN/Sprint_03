@@ -18,14 +18,14 @@ public class Order {
 
     public static Order getOrderWithoutColor() {
         return new Order(
-                "Alexandra",
-                "Chirkova",
-                "Lenina, 96 apt.",
-                "3",
-                "+7 705 555 55 55",
+                "Beknur",
+                "Narmukhan",
+                "Abaya, 32 apt.",
+                "4",
+                "+7 747 444 44 44",
                 4,
-                "2022-07-07",
-                "Privet Mir"
+                "2022-06-21",
+                "hello"
         );
     }
 
